@@ -7,12 +7,12 @@
         <artifactId>xxl-job</artifactId>
         <version>2.0.0</version>
     </parent>
-    <artifactId>xxl-job-executor-samples</artifactId>
+    <artifactId>xxl-job-executor</artifactId>
     <packaging>pom</packaging>
 
     <modules>
-        <module>xxl-job-executor-sample-springboot</module>
-        <module>xxl-job-executor-sample-spring</module>
+        <module>xxl-job-executor-springboot</module>
+        <module>xxl-job-executor-spring</module>
     </modules>
 
 </project>

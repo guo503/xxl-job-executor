@@ -3,10 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.xuxueli</groupId>
-		<artifactId>xxl-job-executor-samples</artifactId>
+		<artifactId>xxl-job-executor</artifactId>
 		<version>2.0.0</version>
 	</parent>
-	<artifactId>xxl-job-executor-sample-spring</artifactId>
+	<artifactId>xxl-job-executor-spring</artifactId>
 	<packaging>war</packaging>
 
 	<name>${project.artifactId}</name>
